@@ -1,0 +1,12 @@
+[
+    {"title": "Manzana","price":5,"thumbnail":"https://www.recetasnestle.com.mx/sites/default/files/inline-images/tipos-de-manzana-royal-gala.jpg","code":321,"stock":100,"id":1},
+    {"title": "Pera","price":8,"thumbnail":"http://www.frutas-hortalizas.com/img/fruites_verdures/presentacio/26.jpg","code":123,"stock":101,"id":2},
+    {"title": "Leche","description": "Es un lácteo","price": 21,"thumbnail": "https://saludconlupa.com/media/images/Leche2.925a57c4.fill-1800x945.jpg","code": 89,"stock": 323,"id": 3},
+    {"title": "Sal","description": "Es un condimento","price": 13,"thumbnail": "https://imag.bonviveur.com/salero-relleno-de-sal-comun-o-sal-de-mesa.jpg","code": 25,"stock": 124,"id": 4},
+    {"title": "Cebolla","description": "Es una Verdura","price": 86,"thumbnail": "https://cdn.shopify.com/s/files/1/0266/6368/2128/products/GH_Verduras_Cebolla_600x.jpg?v=1643301850","code": 394,"stock": 145,"id": 5},
+    {"title": "Frijol","description": "Es una leguminosa","price": 95,"thumbnail": "https://www.gob.mx/cms/uploads/image/file/595293/200730_AGRICULTURA_INIFAP_FRIJOL-5.jpg","code": 444,"stock": 405,"id": 6},
+    {"title": "Arroz","description": "Es un cereal","price": 44,"thumbnail": "https://img.freepik.com/foto-gratis/saco-arroz-arroz-cuchara-madera-planta-arroz_1150-34312.jpg?size=626&ext=jpg","code": 77,"stock": 465,"id": 7},
+    {"title": "Queso","description": "Es un lácteo","price": 32,"thumbnail": "https://www.catamundi.com/wp-content/uploads/2021/01/C9518A52-F6E8-4FAE-B6EB-D84E8F12D030.jpeg","code": 22,"stock": 352,"id": 8},
+    {"title": "Huevo","description":"Es proteina","price": 70,"thumbnail": "https://www.sabervivirtv.com/medio/2022/05/10/huevo_150ad786_1200x630.jpg","code": 58,"stock": 222, "id": 9},
+    {"title": "Lechuga","description":"Es una verdura","price": 20,"thumbnail": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/lechuga.jpg.webp?itok=kvw7kO2D","code": 158,"stock": 252, "id": 10}
+]
